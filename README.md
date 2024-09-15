@@ -52,9 +52,6 @@ Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM).</p>
 <h2>Contributing</h2>
 <p>If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.</p>
 
-<h2>License</h2>
-<p>This project is open-source and available under the <strong>MIT License</strong>.</p>
-
 <h2>Contact</h2>
 <p>For any questions or issues, you can reach out via GitHub.</p>
 
